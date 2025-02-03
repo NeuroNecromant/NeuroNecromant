@@ -29,4 +29,4 @@ https://github.com/Apex-droid/robot-bobot
 
 Нейросотрудник консультант по мнемотехнике с интерфейсом на gradio
 Создал нейросотрудника, который отвечает на вопросы о мнемотехнике и дает советы как запомнить что-либо.
-https://github.com/Apex-droid/mnemobot/blob/main/mnemobot.ipynb
+https://github.com/NeuroNecromant/mnemotech_bot
