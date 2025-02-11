@@ -6,8 +6,7 @@
   
 <p1 align="left">:world_map: Я живу в Иваново  </p1> 
 
-<p2 align="left">:man_student: Учусь в академии нейросетей <a href="https://dnk.the-founder.ru/" target="_blank">The Founder</a> </p2>  
-<p2 align="left">  <a href="" target="_blank">Ссылка на проект</a> </p2>  
+<p2 align="left">:man_student: Учусь в академии нейросетей <a href="https://dnk.the-founder.ru/" target="_blank">The Founder</a> </p2>   
 
 <p3 align="left">:calling:Вы можете связаться со мной по TG: https://t.me/AlexUr</p3>  
 
