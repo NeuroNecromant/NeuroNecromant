@@ -23,16 +23,22 @@
 📌<strong>Классификатор пород собак</strong>
 
 Обучил нейросеть классифицировать изображения собак по их породам и создал интерфейс с веб страницей для использования нейросети.
-<p2 align="left">  <a href="https://github.com/NeuroNecromant/dog-s-classfication" target="_blank">Ссылка на проект</a> </p2>
+<a href="https://github.com/NeuroNecromant/dog-s-classfication" target="_blank">Ссылка на проект</a>
+
+<strong>Стек:</strong> Python, FastAPI, HTML/CSS
 
 ---
 📌<strong>Чат-бот с логическим тестом</strong>
 
 Создал чат-бота, который проводит логический квиз, сохраняет результаты участников и выводит их.
-<p2 align="left">  <a href="https://github.com/NeuroNecromant/logic-quiz-bot" target="_blank">Ссылка на проект</a> </p2>
+<a href="https://github.com/NeuroNecromant/logic-quiz-bot" target="_blank">Ссылка на проект</a>
+
+<strong>Стек:</strong> Python, SQLite, aiogram, asyncio 
 
 ---
 📌<strong>Нейросотрудник консультант по мнемотехнике с интерфейсом на gradio</strong>
 
 Создал нейросотрудника, который отвечает на вопросы о мнемотехнике и дает советы как запомнить что-либо.
-<p2 align="left"> <a href="https://github.com/NeuroNecromant/mnemotech_bot" target="_blank">Ссылка на проект</a> </p2>
+<a href="https://github.com/NeuroNecromant/mnemotech_bot" target="_blank">Ссылка на проект</a> 
+
+<strong>Стек:</strong> Python, llama-index, torch 
